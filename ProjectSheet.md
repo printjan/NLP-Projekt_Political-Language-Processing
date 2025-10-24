@@ -2,21 +2,6 @@
 
 ---
 
-## **Team-Mitglieder:**
-
-* Julian Dreykorn: dreykornju96245@th-nuernberg.de
-* Simon Zeitler: zeitlersi95865@th-nuernberg.de
-* Jan Tischner: tischnerja95752@th-nuernberg.de
-
----
-
-## Motivation / Szenario
-* Worum geht es in Ihrem Projekt?
-* Was ist Ihre Motivation?
-* Welches Szenario wollen Sie betrachten?
-* Gibt es vielleicht sogar einen hypothetischen Kunden, für den Ihr Anwendungsfall relevant wäre?
-* Welche Fragestellungen würden Sie gern beantworten?
-
 ### **Political Language Processing**
 In unserem Projekt „Political Language Processing“ untersuchen wir politische Reden im Deutschen Bundestag mittels Natural Language Processing. Ziel ist es, Einblicke in die Dynamik und Struktur der politischen Kommunikation zu gewinnen. Unsere Motivation besteht darin, verborgene Muster und Zusammenhänge im politischen Diskurs sichtbar zu machen und kritisch zu hinterfragen.
 Das Szenario konzentriert sich auf eine umfassende Analyse der Plenarprotokolle des Deutschen Bundestages. Als hypothetischen Kunden betrachten wir beispielsweise politische Forschungsinstitute, Medienhäuser oder Parteien, die an detaillierten Analysen und verständlichen Visualisierungen politischer Kommunikation interessiert sind.
@@ -27,29 +12,12 @@ Konkret möchten wir folgende Fragestellungen beantworten:
 
 ---
 
-## Daten
-* Welche Daten wollen Sie für Ihr Projekt verwenden?
-* Bitte angeben, ob Sie frei verfügbare Daten verwenden (wenn ja, Link(s) angeben) oder selbst crawlen wollen (dann URL(s) angeben). Falls selber crawlen, vorher checken, ob robots.txt und "Terms of Use" das erlauben.
-
-
 ### **Als Datengrundlage nutzen wir die frei verfügbaren Plenarprotokolle der 19. und 20. Legislaturperiode des Deutschen Bundestags:**
 - Zunächst alle Plenarprotokolle in JSON Form über die API des Deutschen Bundestags Crawlen: https://www.bundestag.de/services/opendata
 - Vor dem Crawlen prüfen wir die Nutzungsbedingungen sowie die robots.txt der Website auf Zulässigkeit des Datenabrufs
 - Dann die gecrawlten Protokolle von ihrer Rohform in ein verarbeitbares Format transformieren
 
-### **Als Fallback-Option, falls das Crawlen nicht klappt, planen wir einen bereits vorverarbeiteten Datensatz der Bundestags-Mine zu verwenden:**
-- Grundlage dieses Datensatzes sind Plenarprotokolle von Sitzungen des 19. Bundestages
-- Daten sind hier in JSON-Dateien gekapselt und beinhalten neben den Reden auch die Ergebnisse einer Named-Entity-Recognition und einer Sentiment-Analyse (diese verwenden wir nicht)
-- Bundestags-Mine Datensatz: https://bundestag-mine.de/
-
 ---
-
-## Vorgehen
-- Sofern Sie schon Ideen dazu haben:
-  * Wie wollen Sie vorgehen?
-  * Welche statistischen Analysen können Sie sich vorstellen durchführen, um erste interessante Informationen und Zusammenhänge zu finden?
-  * Was für ML-Modelle wollen Sie trainieren?
-
 
 ### **Datenbeschaffung und Vorbereitung:**
 - Crawling der Plenarprotokolle über die API
@@ -84,6 +52,3 @@ Konkret möchten wir folgende Fragestellungen beantworten:
 - Idee: Topic-Cluster der Parteien mit den allgemeinen Clustern vergleichen, um Fokus der Parteien abzubilden
 
 ---
-
-## Fragen
-Was haben Sie noch für offene Fragen, die Sie mit uns Dozenten klären möchten?

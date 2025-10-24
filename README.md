@@ -1,18 +1,10 @@
 # **Political Language Processing**
 
 
-## **Team 16:**
-
-* Julian Dreykorn: dreykornju96245@th-nuernberg.de
-* Simon Zeitler: zeitlersi95865@th-nuernberg.de
-* Jan Tischner: tischnerja95752@th-nuernberg.de
-
-
 ---
 
 
-## **Political Language Processing**
-
+### **Political Language Processing**
 In our project “Political Language Processing”, we analyze political speeches in the German Bundestag using Natural Language Processing. The aim is to gain insights into the dynamics and structure of political communication. Our motivation is to reveal and critically question hidden patterns and relationships in political discourse.
 
 The scenario focuses on a comprehensive analysis of the plenary protocols of the German Bundestag. As a hypothetical client, we consider, for example, political research institutes, media houses, or parties that are interested in detailed analyses and comprehensible visualizations of political communication.
@@ -28,15 +20,11 @@ Specifically, we aim to answer the following questions:
 
 ## **data**
 
-
 ### **For our project, the data was fetched from the open data service provided by the Bundestag:**
-
-
-* The data from the 19th electural term could simply be downloaded using the API.
-* Note: For the 20th period, a small number of protocols were missing.
-* For downloading, an API client was created and used, it is checked in under the bundestagsapi folder. However since the data only ahas to be downloaded once, this is not included in any notebook and just kept for reference.
-* After crawling, the data was stored in a Pandas dataframe, preprocessed through several stages, and stored in Pickle (*.pkl) files. Below is a OneDrive link, containing the raw data and the preprocessing stages
-
+- The data from the 19th electural term could simply be downloaded using the API.
+- Note: For the 20th period, a small number of protocols were missing.
+- For downloading, an API client was created and used, it is checked in under the bundestagsapi folder. However since the data only ahas to be downloaded once, this is not included in any notebook and just kept for reference.
+- After crawling, the data was stored in a Pandas dataframe, preprocessed through several stages, and stored in Pickle (*.pkl) files. This is a [link]() to a kaggle dataset derived from this project.
 
 
 ## **Project Structure Overview:**
@@ -82,7 +70,8 @@ data/
 ├── dataStatistics/…
 ├── dataClassification/…
 ├── dataTopicModeling/…
-│
+│   ├── lda
+│   ├── bertopic
 team-16/
 ├── dataGeneration/
 │   ├── dataGeneratorPipeline.ipynb
@@ -110,4 +99,35 @@ team-16/
 
 ---
 
+
+### ** Statistic Task **
+See the [Statistic Task](./ST-Task/statisticTask.ipynb)
+
+
+
+### ** ML-Task 1: automatic classification of the political party **
+See the corresponding classification notebook:
+[classification](./ML-Task-1_Classification/ML-Task-1_Classification.ipynb)
+
+
+
+### ** ML-Task 2: Topic Modeling **
+See the [topic modeling notebook](./ML-Task-2_Topic-Modeling/TopicModeling_LDA_NMF.ipynb)
+The follow-up on BERTopic is also linked from there.
+
+
+---
+
+
+## **Team:**
+
+* Jan Tischner: tischnerja95752@th-nuernberg.de
+* J. D.: ---
+* S. Z.: ---
+
+If you use this repository, please consider citing as:
+
+```
+Tischner Jan and team, (2025): Political Language Processing: A analysis of German Bundestag Speeches covering 19th & 20th Legislative Periods.
+```
 
