@@ -1,0 +1,28 @@
+{
+  "id": "4708",
+  "dokumentart": "Plenarprotokoll",
+  "typ": "Dokument",
+  "dokumentnummer": "27",
+  "wahlperiode": 19,
+  "herausgeber": "EK",
+  "datum": "2017-12-13",
+  "aktualisiert": "2017-12-13T00:00+01:00",
+  "titel": "Protokoll Nr. 27 der Europakammer",
+  "fundstelle": {
+    "id": "4708",
+    "dokumentart": "Plenarprotokoll",
+    "dokumentnummer": "27",
+    "datum": "2017-12-13",
+    "herausgeber": "EK",
+    "urheber": []
+  },
+  "vorgangsbezug": [
+    {
+      "id": "230131",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen:\r\nStärkung der europäischen Identität durch Bildung und Kultur - Beitrag der Europäischen Kommission zum Gipfeltreffen in Göteborg am 17. November 2017\r\nKOM(2017) 673 endg.; Ratsdok. 14436/17",
+      "vorgangstyp": "EU-Vorlage"
+    }
+  ],
+  "vorgangsbezug_anzahl": 1,
+  "sitzungsbemerkung": "Bericht über das 27. Umfrageverfahren der Europakammer"
+}

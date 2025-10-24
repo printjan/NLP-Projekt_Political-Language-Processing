@@ -1,0 +1,31 @@
+{
+  "id": "5321",
+  "dokumentart": "Plenarprotokoll",
+  "typ": "Dokument",
+  "dokumentnummer": "987",
+  "wahlperiode": 19,
+  "herausgeber": "BR",
+  "datum": "2020-03-25",
+  "aktualisiert": "2020-03-25T00:00+01:00",
+  "titel": "Protokoll der 987. Sitzung des Bundesrates",
+  "fundstelle": {
+    "id": "5321",
+    "dokumentart": "Plenarprotokoll",
+    "pdf_url": "https://dserver.bundestag.de/brp/987.pdf",
+    "dokumentnummer": "987",
+    "datum": "2020-03-25",
+    "herausgeber": "BR",
+    "urheber": []
+  },
+  "pdf_hash": "c83a5c8d5bfe169f575801c1ec09b018",
+  "vorgangsbezug": [
+    {
+      "id": "260526",
+      "titel": "Gesetz über die Feststellung eines Nachtrags zum  Bundeshaushaltsplan für das Haushaltsjahr 2020 (Nachtragshaushaltsgesetz 2020)",
+      "vorgangstyp": "Gesetzgebung"
+    }
+  ],
+  "vorgangsbezug_anzahl": 1,
+  "sitzungsbemerkung": "Sondersitzung",
+  "text": "[Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln\nTelefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de\nISSN 0720-7999\nPlenarprotokoll 987\nBUNDESRAT\nStenografischer Bericht\n987. Sitzung\nBerlin, Mittwoch, den 25. März 2020\nI n h a l t :\nZur Tagesordnung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 95\nE i n z i g e r  P u n k t  d e r  T a g e s o r d n u n g :\nEntwurf eines Gesetzes über die Feststellung eines Nachtrags \nzum Bundeshaushaltsplan für das Haushaltsjahr 2020\n(Nachtragshaushaltsgesetz 2020) (Drucksache 146/20) . . . . . . . . 95\nBeschluss: Keine Einwendungen gemäß Artikel 110 Absatz 3 \nGG . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 95\nNächste Sitzung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 95\nVerzeichnis der Anwesenden\nV o r s i t z :\nPräsident D r .  D i e t m a r  W o i d k e ,\nMinisterpräsident des Landes Brandenburg\nB a d e n - W ü r t t e m b e r g :\nB a y e r n :\nGeorg Eisenreich, Staatsminister der Justiz\nB e r l i n :\nMichael Müller, Regierender Bürgermeister\nDr. Matthias Kollatz, Senator für Finanzen\nB r a n d e n b u r g :\nKatrin Lange, Ministerin der Finanzen und für \nEuropa\nB r e m e n :\nDr. Olaf Joachim, Staatsrat, Bevollmächtigter der \nFreien Hansestadt Bremen beim Bund\nH a m b u r g :\nDr. Andreas Dressel, Senator, Präses der\nFinanzbehörde\nH e s s e n :\nLucia Puttrich, Ministerin für Bundes- und\nEuropaangelegenheiten und Bevollmächtigte des Landes \nHessen beim Bund\nM e c k l e n b u r g - V o r p o m m e r n :\nDr. Till Backhaus, Minister für Landwirtschaft und \nUmwelt\nN i e d e r s a c h s e n :\nBirgit Honé, Ministerin für Bundes- und\nEuropaangelegenheiten und Regionale Entwicklung, \nBevollmächtigte des Landes Niedersachsen beim \nBund\nN o r d r h e i n - W e s t f a l e n :\nDr. Stephan Holthoff-Pförtner, Minister für Bundes-\nund Europaangelegenheiten sowie Internationales \nim Geschäftsbereich des Ministerpräsidenten\nR h e i n l a n d - P f a l z :\nHerbert Mertin, Minister der Justiz\nS a a r l a n d :\nHenrik Eitel, Staatssekretär, Chef der Staatskanzlei \nund Bevollmächtigter des Saarlandes beim Bund\nS a c h s e n :\nOliver Schenk, Chef der Staatskanzlei und\nStaatsminister für Bundesangelegenheiten und Medien\nS a c h s e n - A n h a l t :\nMichael Richter, Minister der Finanzen\nS c h l e s w i g - H o l s t e i n :\nJan Philipp Albrecht, Minister für Energiewende, \nLandwirtschaft, Umwelt, Natur und\nDigitalisierung\nT h ü r i n g e n :\nProf. Dr. Benjamin-Immanuel Hoff, Minister für \nKultur, Bundes- und Europaangelegenheiten und \nChef der Staatskanzlei, Minister für Infrastruktur \nund Landwirtschaft\nV o n  d e r  B u n d e s r e g i e r u n g :\nDr. Hendrik Hoppenstedt, Staatsminister bei der \nBundeskanzlerin\n987. Sitzung\nBerlin, den 25. März 2020\nBeginn: 10.01 Uhr\nPräsident Dr. Dietmar Woidke: Meine sehr\nverehrten Damen und Herren, liebe Kolleginnen und\nKollegen, ich eröffne die 987. Sitzung des Bundesrates.\nDie Bundeskanzlerin hat mich mit Schreiben vom \n23. März 2020 darüber informiert, dass der Deutsche \nBundestag voraussichtlich am heutigen Tag im Rahmen \nder Gesetzgebung zur Eindämmung der Corona-Virus-\nKrankheit das Gesetz über die Feststellung eines\nNachtrags zum Bundeshaushalt für das Haushaltsjahr 2020 \nbeschließen wird.\nDa der Beschluss des Deutschen Bundestages erst \nnach Abschluss der ersten Beratung des Gesetzentwurfs \ndurch den Bundesrat möglich ist, hat die\nBundesregierung gemäß Artikel 52 Absatz 2 Satz 2 Grundgesetz die \nEinberufung einer Sondersitzung des Bundesrates\nbeantragt.\nDiesem Wunsch bin ich nachgekommen und habe für \nheute zu dieser Sitzung eingeladen.\nDie Tagesordnung liegt Ihnen in vorläufiger Form \nmit diesem einzigen Punkt vor. Es liegen bisher keine \nWortmeldungen vor. Gibt es vielleicht jetzt\nWortmeldungen? – Das ist nicht der Fall.\nDann, meine sehr verehrten Damen und Herren, ist die \nTagesordnung so festgestellt.\nWir kommen zum einzigen Punkt:\nTOP 1\nEntwurf eines Gesetzes über die Feststellung eines \nNachtrags zum Bundeshaushaltsplan für das\nHaushaltsjahr 2020 (Nachtragshaushaltsgesetz 2020)\n(Drucksache 146/20)\nAusschussberatungen haben nicht stattgefunden. Wir \nsind jedoch übereingekommen, bereits heute in der Sache \nzu entscheiden.\nWir kommen zur Abstimmung. Wer ist dafür, gegen \nden Gesetzentwurf keine Einwendungen zu erheben? \nIch bitte Sie um das Handzeichen. – Das ist eine\ndeutliche Mehrheit.\nDann ist so beschlossen.\nIch wünsche Ihnen allen gute Nerven, gute\nEntscheidungen und vor allen Dingen: Bleiben Sie gesund!\nEntschuldigung, ich habe noch eine Sache: Die\nnächste Sitzung des Bundesrates berufe ich ein auf Freitag, \nden 27. März 2020, 11.00 Uhr.\nDie für den 3. April 2020 anberaumte Sitzung findet \nn i c h t statt.\nIch wäre Ihnen dankbar, wenn wir die Sitzung am \nFreitag auch so zügig und mit so viel Abstand wie heute \ndurchführen könnten.\nPassen Sie gut auf sich auf! Halten Sie vor allem \nAbstand! Alles Gute! – Herzlichen Dank.\nDie Sitzung ist geschlossen.\n(Schluss: 10.04 Uhr)]"
+}

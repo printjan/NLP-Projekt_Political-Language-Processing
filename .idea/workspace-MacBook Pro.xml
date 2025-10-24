@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="961b25c3-c864-4964-ac85-1202df5b1e0f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Datenbanken_Sem4/Datenbanken_Praktikum/DB-Prakt_Meilenstein2/DB-Prakt_Meilenstein-2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Datenbanken_Sem4/Datenbanken_Praktikum/DB-Prakt_Meilenstein2/ToyModels_Create_Table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Datenbanken_Sem4/Datenbanken_Praktikum/DB-Prakt_Meilenstein2/ToyModels_Insert.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aufgabe 1 Klassifikator.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Preprocessing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EtractTestData.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clean_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19001.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19002.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19003.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19004.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19005.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19006.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19007.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19008.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19009.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19010.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19011.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19012.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19013.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19014.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19015.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19016.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19017.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19018.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19019.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19020.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19021.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19022.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19023.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19024.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19025.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19026.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19027.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19028.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19029.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19030.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19031.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19032.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19033.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19034.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19035.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19036.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19037.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19038.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19039.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19040.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19041.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19042.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19043.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19044.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19045.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19046.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19047.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19048.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19049.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19050.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19051.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19052.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19053.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19054.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19055.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19056.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19057.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19058.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19059.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19060.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19061.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19062.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19063.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19064.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19065.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19066.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19067.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19068.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19069.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19070.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19071.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19072.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19073.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19074.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19075.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19076.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19077.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19078.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19079.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19080.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19081.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19082.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19083.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19084.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19085.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19086.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19087.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19088.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19089.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19090.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19091.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19092.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19093.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19094.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19095.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19096.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19097.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19098.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19099.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19100.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19101.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19102.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19103.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19104.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19105.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19106.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19107.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19108.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19109.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19110.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19111.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19113.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19114.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19115.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19116.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19117.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19118.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19119.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19120.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19121.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19122.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19123.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19124.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19125.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19126.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19127.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19128.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19129.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19130.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19131.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19132.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19133.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19134.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19135.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19136.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19137.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19138.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19139.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19140.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19141.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19142.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19143.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19144.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19145.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19146.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19147.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19148.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19149.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19150.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19151.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19152.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19153.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19154.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19155.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19156.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19157.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19158.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19159.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19160.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19161.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19162.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19163.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19164.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19165.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19166.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19167.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19168.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19169.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19170.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19171.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19172.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19173.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19174.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19175.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19176.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19177.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19178.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19179.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19180.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19181.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19182.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19183.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19184.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19185.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19186.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19187.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19188.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19189.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19190.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19191.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19192.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19193.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19194.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19195.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19196.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19197.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19198.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19199.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19200.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19201.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19202.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19203.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19204.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19205.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19206.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19207.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19208.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19209.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19210.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19211.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19212.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19213.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19214.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19215.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19216.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19217.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19218.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19219.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19220.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19221.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19222.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19223.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19224.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19225.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19226.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19227.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19228.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19229.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19230.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19231.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19232.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19233.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19234.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19235.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19236.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19237.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19238.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStage01/electoral_term_19/19239.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/match_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rawData/politiciansRawData/MDB_STAMMDATEN.XML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NLP_Projekt_political-language-processing.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../NLP_Projekt_political-language-processing.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NLP_Zusammenfassung.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../NLP_Zusammenfassung.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;printjan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/printjan/TH_OHM_B.Sc.Inf.git&quot;,
+    &quot;accountId&quot;: &quot;f54c03ae-e6ff-4e64-9376-47df34d76ead&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2wj6IN4zjUIvZz5nRHP5zFjEAc1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.clean_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python.extract_contributions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.match_names.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jantischner/Library/CloudStorage/OneDrive-Personal/TH_OHM_B.Sc.Inf/Th-Ohm_B.Sc.Inf_Sem4/NLP_Sem-4/team-16_local&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dataStage01" />
+      <recent name="$PROJECT_DIR$/rawdata" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rawData/politiciansRawData" />
+      <recent name="$PROJECT_DIR$/rawdata" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.122" />
+        <option value="bundled-python-sdk-880ecab49056-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.122" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="961b25c3-c864-4964-ac85-1202df5b1e0f" name="Changes" comment="" />
+      <created>1746542555339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746542555339</updated>
+      <workItem from="1746542556365" duration="8998000" />
+      <workItem from="1746612995828" duration="13420000" />
+      <workItem from="1746738332889" duration="26621000" />
+      <workItem from="1747067667184" duration="2032000" />
+      <workItem from="1747083285345" duration="3348000" />
+      <workItem from="1747129842500" duration="1125000" />
+      <workItem from="1747131220038" duration="156000" />
+      <workItem from="1747131534973" duration="685000" />
+      <workItem from="1747132540485" duration="64000" />
+      <workItem from="1747132693163" duration="224000" />
+      <workItem from="1747132948840" duration="8721000" />
+      <workItem from="1747151685131" duration="9200000" />
+      <workItem from="1747173348243" duration="25000" />
+      <workItem from="1747173388032" duration="2189000" />
+      <workItem from="1747175599489" duration="2317000" />
+      <workItem from="1747177999034" duration="3610000" />
+      <workItem from="1747181646952" duration="4013000" />
+      <workItem from="1747236627220" duration="4324000" />
+      <workItem from="1747307707139" duration="869000" />
+      <workItem from="1747339091413" duration="10383000" />
+      <workItem from="1747354365875" duration="2628000" />
+      <workItem from="1747389274134" duration="4440000" />
+      <workItem from="1747394891448" duration="1966000" />
+      <workItem from="1747427674399" duration="5980000" />
+      <workItem from="1747438295014" duration="5505000" />
+      <workItem from="1747491917067" duration="8029000" />
+      <workItem from="1747668105569" duration="4703000" />
+      <workItem from="1747684880106" duration="5255000" />
+      <workItem from="1747695709665" duration="85000" />
+      <workItem from="1747695942269" duration="6955000" />
+      <workItem from="1747828843528" duration="4534000" />
+      <workItem from="1747839520550" duration="9641000" />
+      <workItem from="1747852449640" duration="16450000" />
+      <workItem from="1747909155076" duration="2361000" />
+      <workItem from="1747911551086" duration="1168000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/team_16_local$match_names.coverage" NAME="match_names Coverage Results" MODIFIED="1747176748197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/team_16$extract_contributions.coverage" NAME="extract_contributions Coverage Results" MODIFIED="1746973193150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/team_16_local$clean_text.coverage" NAME="clean_text Coverage Results" MODIFIED="1747174936657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

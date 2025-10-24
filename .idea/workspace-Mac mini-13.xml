@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="961b25c3-c864-4964-ac85-1202df5b1e0f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DataGeneration-Pipeline-Documentation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML-Task-1_Classification_Experiments.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preprocessing_Domain_Stopwords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preprocessing_ML-Task-1_Classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preprocessing_ML-Task-1_Documentation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preprocessing_Phrase_Patterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preprocessing_Pipeline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp_project_env_setup.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NLP_Projekt_political-language-processing.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../NLP_Projekt_political-language-processing.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NLP_Zusammenfassung.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../NLP_Zusammenfassung.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;printjan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/printjan/TH_OHM_B.Sc.Inf.git&quot;,
+    &quot;accountId&quot;: &quot;f54c03ae-e6ff-4e64-9376-47df34d76ead&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2wj6IN4zjUIvZz5nRHP5zFjEAc1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.clean_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python.extract_contributions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.match_names.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prprocessing classification.executor&quot;: &quot;Run&quot;,
+    &quot;Python.text_cleaning_and_normalization.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jantischner/Library/CloudStorage/OneDrive-Personal/TH_OHM_B.Sc.Inf/Th-Ohm_B.Sc.Inf_Sem4/NLP_Sem-4/team-16_local_Preprocessing&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.jupyter.py.connections.configurable.JupyterServersConfigurable&quot;,
+    &quot;vcs.patch.path&quot;: &quot;/Users/jantischner/Desktop&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/dataStage01" />
+      <recent name="$PROJECT_DIR$/rawdata" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rawData/politiciansRawData" />
+      <recent name="$PROJECT_DIR$/rawdata" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.dataset12">
+    <configuration name="Preprocessing_ML-Task-1_Classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="team-16" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Preprocessing_ML-Task-1_Classification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Preprocessing_Pipeline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="team-16" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Preprocessing_Pipeline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataset12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="team-16" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataset12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dataset12" />
+        <item itemvalue="Python.Preprocessing_ML-Task-1_Classification" />
+        <item itemvalue="Python.Preprocessing_Pipeline" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="961b25c3-c864-4964-ac85-1202df5b1e0f" name="Changes" comment="" />
+      <created>1746542555339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746542555339</updated>
+      <workItem from="1746542556365" duration="8998000" />
+      <workItem from="1746612995828" duration="13420000" />
+      <workItem from="1746738332889" duration="26621000" />
+      <workItem from="1747067667184" duration="2032000" />
+      <workItem from="1747083285345" duration="3348000" />
+      <workItem from="1747129842500" duration="1125000" />
+      <workItem from="1747131220038" duration="156000" />
+      <workItem from="1747131534973" duration="685000" />
+      <workItem from="1747132540485" duration="64000" />
+      <workItem from="1747132693163" duration="224000" />
+      <workItem from="1747132948840" duration="8721000" />
+      <workItem from="1747151685131" duration="9200000" />
+      <workItem from="1747173348243" duration="25000" />
+      <workItem from="1747173388032" duration="2189000" />
+      <workItem from="1747175599489" duration="2317000" />
+      <workItem from="1747177999034" duration="3610000" />
+      <workItem from="1747181646952" duration="4013000" />
+      <workItem from="1747236627220" duration="4324000" />
+      <workItem from="1747307707139" duration="869000" />
+      <workItem from="1747339091413" duration="10383000" />
+      <workItem from="1747354365875" duration="2628000" />
+      <workItem from="1747389274134" duration="4440000" />
+      <workItem from="1747394891448" duration="1966000" />
+      <workItem from="1747427674399" duration="5980000" />
+      <workItem from="1747438295014" duration="5505000" />
+      <workItem from="1747491917067" duration="8029000" />
+      <workItem from="1747668105569" duration="4703000" />
+      <workItem from="1747684880106" duration="5255000" />
+      <workItem from="1747695709665" duration="85000" />
+      <workItem from="1747695942269" duration="6955000" />
+      <workItem from="1747925328839" duration="2862000" />
+      <workItem from="1747929519502" duration="371000" />
+      <workItem from="1747929917663" duration="26000" />
+      <workItem from="1747930075274" duration="16000" />
+      <workItem from="1747930425760" duration="1878000" />
+      <workItem from="1747934374318" duration="22000" />
+      <workItem from="1747934512820" duration="8232000" />
+      <workItem from="1747947887087" duration="5491000" />
+      <workItem from="1747993533591" duration="5742000" />
+      <workItem from="1748001285626" duration="9321000" />
+      <workItem from="1748024084294" duration="5103000" />
+      <workItem from="1748037513188" duration="5718000" />
+      <workItem from="1748046970172" duration="27000" />
+      <workItem from="1748075415521" duration="1862000" />
+      <workItem from="1748082069661" duration="17437000" />
+      <workItem from="1748259980454" duration="897000" />
+      <workItem from="1748261288602" duration="120000" />
+      <workItem from="1748266744701" duration="8181000" />
+      <workItem from="1748363080476" duration="26596000" />
+      <workItem from="1748505670028" duration="31476000" />
+      <workItem from="1748570355727" duration="83000" />
+      <workItem from="1748570748450" duration="3931000" />
+      <workItem from="1748612658312" duration="15000" />
+      <workItem from="1748613212362" duration="106000" />
+      <workItem from="1748614271017" duration="4501000" />
+      <workItem from="1748622727618" duration="7344000" />
+      <workItem from="1748728684838" duration="16383000" />
+      <workItem from="1748778175603" duration="6353000" />
+      <workItem from="1748808468869" duration="4246000" />
+      <workItem from="1748819131110" duration="127000" />
+      <workItem from="1748819282588" duration="2980000" />
+      <workItem from="1748865384345" duration="15942000" />
+      <workItem from="1748907304273" duration="11523000" />
+      <workItem from="1748920740650" duration="882000" />
+      <workItem from="1748921724131" duration="505000" />
+      <workItem from="1748922261377" duration="1387000" />
+      <workItem from="1748949991769" duration="8081000" />
+      <workItem from="1749053353979" duration="4015000" />
+      <workItem from="1749105166921" duration="13708000" />
+      <workItem from="1749145955201" duration="15630000" />
+      <workItem from="1749219723404" duration="794000" />
+      <workItem from="1749274267897" duration="6039000" />
+      <workItem from="1749306689536" duration="12045000" />
+      <workItem from="1749343024363" duration="990000" />
+      <workItem from="1749348016534" duration="756000" />
+      <workItem from="1749381264071" duration="64458000" />
+      <workItem from="1749595847175" duration="9511000" />
+      <workItem from="1749635721477" duration="21955000" />
+      <workItem from="1749667070913" duration="7820000" />
+      <workItem from="1749722323844" duration="65000" />
+      <workItem from="1749722412125" duration="59385000" />
+      <workItem from="1749828198898" duration="5629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/team_16_local$match_names.coverage" NAME="match_names Coverage Results" MODIFIED="1747176748197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/text_cleaning_and_normalization_py$prprocessing_classification.coverage" NAME="prprocessing classification Coverage Results" MODIFIED="1749219355029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/clean_text_py$text_cleaning_and_normalization.coverage" NAME="text_cleaning_and_normalization Coverage Results" MODIFIED="1748569921758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/team_16$extract_contributions.coverage" NAME="extract_contributions Coverage Results" MODIFIED="1746973193150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/text_cleaning_and_normalization_py$dataset11.coverage" NAME="dataset11 Coverage Results" MODIFIED="1749219452538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/team_16_local$clean_text.coverage" NAME="clean_text Coverage Results" MODIFIED="1747174936657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

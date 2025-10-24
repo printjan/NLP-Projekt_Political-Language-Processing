@@ -1,0 +1,43 @@
+{
+  "id": "5325",
+  "dokumentart": "Plenarprotokoll",
+  "typ": "Dokument",
+  "dokumentnummer": "28",
+  "wahlperiode": 19,
+  "herausgeber": "EK",
+  "datum": "2020-04-21",
+  "aktualisiert": "2020-04-21T00:00+02:00",
+  "titel": "Protokoll Nr. 28 der Europakammer",
+  "fundstelle": {
+    "id": "5325",
+    "dokumentart": "Plenarprotokoll",
+    "dokumentnummer": "28",
+    "datum": "2020-04-21",
+    "herausgeber": "EK",
+    "urheber": []
+  },
+  "vorgangsbezug": [
+    {
+      "id": "260971",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung der Verordnung (EU) Nr. 1379/2013 und der Verordnung (EU) Nr. 508/2014 hinsichtlich spezifischer Maßnahmen zur Milderung der Auswirkungen der COVID-19-Pandemie im Fischerei- und Aquakultursektor\r\nKOM(2020) 142 endg.; Ratsdok. 7153/20",
+      "vorgangstyp": "EU-Vorlage"
+    },
+    {
+      "id": "260989",
+      "titel": "Vorschlag für eine Verordnung des Rates zur Schaffung eines Europäischen Instruments zur vorübergehenden Unterstützung bei der Minderung von Arbeitslosigkeitsrisiken in der durch den COVID-19-Ausbruch verursachten Krise (SURE)\r\nKOM(2020) 139 endg.; Ratsdok. 7161/20",
+      "vorgangstyp": "EU-Vorlage"
+    },
+    {
+      "id": "260988",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung der Verordnung (EU) Nr. 223/2014 in Bezug auf die Einführung spezifischer Maßnahmen zur Bekämpfung der COVID-19-Krise\r\nKOM(2020) 141 endg.; Ratsdok. 7163/20",
+      "vorgangstyp": "EU-Vorlage"
+    },
+    {
+      "id": "260969",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung der Verordnung (EU) Nr. 1303/2013 und der Verordnung (EU) Nr. 1301/2013 im Hinblick auf spezifische Maßnahmen zur Einführung einer außerordentlichen Flexibilität beim Einsatz der europäischen Struktur- und Investitionsfonds als Reaktion auf den Ausbruch von COVID-19\r\nKOM(2020) 138 endg.; Ratsdok. 7154/20",
+      "vorgangstyp": "EU-Vorlage"
+    }
+  ],
+  "vorgangsbezug_anzahl": 4,
+  "sitzungsbemerkung": "Bericht über das 28. Umfrageverfahren der Europakammer "
+}

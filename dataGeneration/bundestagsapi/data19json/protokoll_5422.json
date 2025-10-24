@@ -1,0 +1,28 @@
+{
+  "id": "5422",
+  "dokumentart": "Plenarprotokoll",
+  "typ": "Dokument",
+  "dokumentnummer": "29",
+  "wahlperiode": 19,
+  "herausgeber": "EK",
+  "datum": "2021-06-15",
+  "aktualisiert": "2021-06-15T00:00+02:00",
+  "titel": "Protokoll Nr. 29 der Europakammer",
+  "fundstelle": {
+    "id": "5422",
+    "dokumentart": "Plenarprotokoll",
+    "dokumentnummer": "29",
+    "datum": "2021-06-15",
+    "herausgeber": "EK",
+    "urheber": []
+  },
+  "vorgangsbezug": [
+    {
+      "id": "279056",
+      "titel": "Benennung von Mitgliedern des Bundesrates für die Plenarversammlung der Konferenz zur Zukunft Europas",
+      "vorgangstyp": "Besetzung externer Gremien durch BR"
+    }
+  ],
+  "vorgangsbezug_anzahl": 1,
+  "sitzungsbemerkung": "Bericht über das 29. Umfrageverfahren der Europakammer "
+}

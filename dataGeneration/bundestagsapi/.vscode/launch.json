@@ -1,0 +1,21 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+			{
+					"type": "java",
+					"name": "CommandLineScraper",
+					"request": "launch",
+					"mainClass": "de.plp.scraper.CommandLineScraper",
+					"projectName": "${workspaceFolderBasename}",
+					"args": "${input:wahlperiode}"
+			}
+	],
+	"inputs": [
+			{
+					"id": "wahlperiode",
+					"type": "promptString",
+					"description": "Wahlperiode eingeben (als Zahl)",
+					"default": "20"
+			}
+	]
+}
