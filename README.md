@@ -25,6 +25,8 @@ Specifically, we aim to answer the following questions:
 - Note: For the 20th period, a small number of protocols were missing.
 - For downloading, an API client was created and used, it is checked in under the bundestagsapi folder. However since the data only ahas to be downloaded once, this is not included in any notebook and just kept for reference.
 - After crawling, the data was stored in a Pandas dataframe, preprocessed through several stages, and stored in Pickle (*.pkl) files. This is a [link]() to a kaggle dataset derived from this project.
+- The rawData/ directory contains the XML cornerstone for all generated tables, by being passed through a python pipeline, that builds a structured, speaker-linked dataset from raw plenary session documents of the German Bundestag. This pipeline is based on the one designed by the [Open Discourse Project](https://github.com/open-discourse/open-discourse/tree/main).
+
 
 
 ## **Project Structure Overview:**
