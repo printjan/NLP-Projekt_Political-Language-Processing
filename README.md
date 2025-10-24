@@ -24,8 +24,7 @@ Specifically, we aim to answer the following questions:
 - The data from the 19th electural term could simply be downloaded using the API.
 - Note: For the 20th period, a small number of protocols were missing.
 - For downloading, an API client was created and used, it is checked in under the bundestagsapi folder. However since the data only ahas to be downloaded once, this is not included in any notebook and just kept for reference.
-- After crawling, the data was stored in a Pandas dataframe, preprocessed through several stages, and stored in Pickle (*.pkl) files. Below is a OneDrive link, containing the raw data and the preprocessing stages:
-[Onedrive Link](https://technischehochschulen-my.sharepoint.com/:f:/g/personal/dreykornju96245_technischehochschulen_onmicrosoft_com/Ej-sEGwae81FhV8L48I0PbEB2m3WW8Pu_nWlVdClo0ceBg?e=QhDzuj)
+- After crawling, the data was stored in a Pandas dataframe, preprocessed through several stages, and stored in Pickle (*.pkl) files. This is a [link]() to a kaggle dataset derived from this project.
 
 
 ## **Project Structure Overview:**
