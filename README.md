@@ -1,13 +1,17 @@
 # **Political Language Processing**
 
 
-## **Team 16:**
+## **Team:**
 
 * Julian Dreykorn: dreykornju96245@th-nuernberg.de
 * Simon Zeitler: zeitlersi95865@th-nuernberg.de
 * Jan Tischner: tischnerja95752@th-nuernberg.de
 
+If you use this repository, please consider citing as:
 
+```
+Tischner Jan, Julian Dreykorn, Simon Zeitler (2025): Political Language Processing: A analysis of German Bundestag Speeches covering 19th & 20th Legislative Periods.
+```
 ---
 
 
