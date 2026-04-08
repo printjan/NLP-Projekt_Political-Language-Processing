@@ -1,6 +1,9 @@
 # **Political Language Processing**
 
 
+**A analysis of German Bundestag Speeches covering 19th & 20th Legislative Periods.**
+
+
 ---
 
 
