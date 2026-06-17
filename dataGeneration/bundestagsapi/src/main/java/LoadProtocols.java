@@ -27,7 +27,7 @@ public class LoadProtocols {
         client.setBasePath("https://search.dip.bundestag.de/api/v1");
 
         ApiKeyAuth apiKey = (ApiKeyAuth) client.getAuthentication("ApiKeyQuery");
-        apiKey.setApiKey("I9FKdCn.hbfefNWCY336dL6x62vfwNKpoN2RZ1gp21");
+        apiKey.setApiKey("..."); // Enter API Key Here
 
         PlenarprotokolleApi api = new PlenarprotokolleApi(client);
         Gson gson = new GsonBuilder()

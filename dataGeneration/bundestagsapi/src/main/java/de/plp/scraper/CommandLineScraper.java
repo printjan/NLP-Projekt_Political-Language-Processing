@@ -29,13 +29,13 @@ public class CommandLineScraper {
 
 		// Configure API key authorization: ApiKeyHeader
 		ApiKeyAuth ApiKeyHeader = (ApiKeyAuth) defaultClient.getAuthentication("ApiKeyHeader");
-		ApiKeyHeader.setApiKey("I9FKdCn.hbfefNWCY336dL6x62vfwNKpoN2RZ1gp21");
+		ApiKeyHeader.setApiKey("..."); // Enter API Key Here
 		// Uncomment the following line to set a prefix for the API key, e.g. "Token"
 		// (defaults to null)
 		// ApiKeyHeader.setApiKeyPrefix("Token");
 		// Configure API key authorization: ApiKeyQuery
 		ApiKeyAuth ApiKeyQuery = (ApiKeyAuth) defaultClient.getAuthentication("ApiKeyQuery");
-		ApiKeyQuery.setApiKey("I9FKdCn.hbfefNWCY336dL6x62vfwNKpoN2RZ1gp21");
+		ApiKeyQuery.setApiKey("..."); // Enter API Key Here
 		// Uncomment the following line to set a prefix for the API key, e.g. "Token"
 		// (defaults to null)
 		// ApiKeyQuery.setApiKeyPrefix("Token");

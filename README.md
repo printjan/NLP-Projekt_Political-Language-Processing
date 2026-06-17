@@ -27,6 +27,13 @@ Specifically, we aim to answer the following questions:
 - After crawling, the data was stored in a Pandas dataframe, preprocessed through several stages, and stored in Pickle (*.pkl) files. This is a [link]() to a kaggle dataset derived from this project.
 - The rawData/ directory contains the XML cornerstone for all generated tables, by being passed through a python pipeline, that builds a structured, speaker-linked dataset from raw plenary session documents of the German Bundestag. This pipeline is based on the one designed by the [Open Discourse Project](https://github.com/open-discourse/open-discourse/tree/main).
 
+### API Keys
+
+The following files need API Keys for the German Bundestags Open Data API:
+- `CommandLineScraper.java`
+- `LoadProtocols.java`
+- `Example.java`
+
 
 
 ## **Project Structure Overview:**
@@ -123,9 +130,9 @@ The follow-up on BERTopic is also linked from there.
 
 ## **Team:**
 
-* Julian Dreykorn: dreykornju96245@th-nuernberg.de
-* Simon Zeitler: zeitlersi95865@th-nuernberg.de
-* Jan Tischner: tischnerja95752@th-nuernberg.de
+* Jan Tischner ([data generation](./dataGeneration/dataGenerationPipeline), [data preprocessing](./dataPreprocessingHelpers), [classification](./ML-Task-1_Classification/ML-Task-1_Classification.ipynb)): tischnerja95752@th-nuernberg.de
+* Julian Dreykorn([API](./dataGeneration/bundestagsapi), [topic modeling](./ML-Task-2_Topic-Modeling/TopicModeling_LDA_NMF.ipynb)): dreykornju96245@th-nuernberg.de
+* Simon Zeitler ([statistics](./ST-Task/statisticTask.ipynb)): zeitlersi95865@th-nuernberg.de
 
 If you use this repository, please consider citing as:
 
